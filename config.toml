@@ -1,0 +1,7 @@
+baseURL = "https://SmoothSnail.github.io/"
+title = "SmoothSnail"
+
+languageCode = "en-us"
+languageName = "English"
+
+theme = "smol"
