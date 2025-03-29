@@ -3,6 +3,7 @@ title = "SmoothSnail"
 
 languageCode = "en-us"
 languageName = "English"
+enableRobotsTXT = true
 
 theme = "smol"
 
