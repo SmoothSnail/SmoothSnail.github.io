@@ -7,6 +7,10 @@ enableRobotsTXT = true
 
 theme = "smol"
 
+# Parameters
+[params]
+    subtitle = "idiot admires complexity, genius admires simplicity"
+
 # Header
 [menu]
   [[menu.main]]
